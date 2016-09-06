@@ -27,7 +27,7 @@ bower install gixi
 Using CDN
 
 ```
-<script src="https://npmcdn.com/gixi@0.0.1/dist/gixi-min.js"></script>
+<script src="https://unpkg.com/gixi@0.0.1/dist/gixi-min.js"></script>
 ```
 
 Or download it from current release [gixi-min.js ](https://github.com/linuxenko/gixi/releases/download/v0.0.1/gixi-min.js) 2.96Kb
