@@ -2,6 +2,8 @@
 
 > HTML5 canvas based GitHub identicons like pixel/avatar images generator library. Available as jquery plugin, es6 or vanillaJS.<br />
 
+[![Donate](https://img.shields.io/badge/donate-3$-green.svg?style=flat-square)](https://www.linuxenko.pro/donate.html#?amount=3)
+
 <img src="https://raw.githubusercontent.com/linuxenko/gixi/master/examples/screenshot.png" align=center />
 
 <br />
