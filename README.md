@@ -1,8 +1,6 @@
 ## GIXI
 
-> HTML5 canvas based GitHub identicons like pixel/avatar images generator library. Available as jquery plugin, es6 or vanillaJS.<br />
-
-[![Donate](https://img.shields.io/badge/donate-3$-green.svg?style=flat-square)](https://www.linuxenko.pro/donate.html#?amount=3)
+HTML5 canvas based GitHub identicons like pixel/avatar images generator library. Available as jquery plugin, es6 or vanillaJS.<br />
 
 <img src="https://raw.githubusercontent.com/linuxenko/gixi/master/examples/screenshot.png" align=center />
 
@@ -15,13 +13,13 @@ CodePen [live demo](http://codepen.io/linuxenko/pen/oxvroK) <br />
 
 ## Installation
 
-Installation via npm
+Installation using npm
 
 ```
 npm install gixi
 ```
 
-Installation via bower
+Installation using bower
 ```
 bower install gixi
 ```
@@ -32,7 +30,7 @@ Using CDN
 <script src="https://unpkg.com/gixi@0.0.1/dist/gixi-min.js"></script>
 ```
 
-Or download it from current release [gixi-min.js ](https://github.com/linuxenko/gixi/releases/download/v0.0.1/gixi-min.js) 2.96Kb
+Or download this one [gixi-min.js ](https://github.com/linuxenko/gixi/releases/download/v0.0.1/gixi-min.js) 2.96Kb
 
 ## Usage
 
@@ -66,7 +64,7 @@ Or download it from current release [gixi-min.js ](https://github.com/linuxenko/
   var imageData = new GIXI(imageSize).getImage();
 
   /*
-   *  Then place it to your dom element
+   *  Then place it into your dom element
    */
 
   var element = document.getElementById('gixie');
